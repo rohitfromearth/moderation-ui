@@ -44,7 +44,7 @@ Make sure you have:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/moderation-ui
+git clone https://github.com/rohitfromearth/moderation-ui.git
 cd moderation-ui
 
 # 2. Install dependencies
